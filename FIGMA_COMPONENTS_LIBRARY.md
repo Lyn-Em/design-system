@@ -4,7 +4,8 @@ Visit the <a href="https://www.figma.com/design/SbLLqxBGF8Tree8yEgevJp/DHCW-Desi
 
 ## About the NHS prototype kit
 
-<strong>The</strong> 
+<strong>The</strong>
+ 
 The NHS prototype kit enables you to make interactive prototypes that will look like pages on NHS.UK. The prototypes you make are a great way to show ideas to others and for conducting user research.
 
 
