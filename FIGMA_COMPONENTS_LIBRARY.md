@@ -1,6 +1,6 @@
 # DHCW FIGMA COMPONENTS LIBRARY 
 
-Visit the <a href="https://www.figma.com/design/SbLLqxBGF8Tree8yEgevJp/DHCW-Design-System?node-id=0-1&t=g3HhjcpVnW8NEeFy-1">DHCW Figma Components Library </a> to access to the Components Library in Figma.
+Visit the <a href="https://www.figma.com/design/SbLLqxBGF8Tree8yEgevJp/DHCW-Design-System?node-id=0-1&t=g3HhjcpVnW8NEeFy-1" target="blank">DHCW Figma Components Library </a> to access to the Components Library in Figma.
 
 The Figma Components Library contains <strong>styles</strong> and <strong>components</strong>:
 
